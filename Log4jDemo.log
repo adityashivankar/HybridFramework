@@ -1,0 +1,236 @@
+16-08-2021-11-21-10 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-11-27-28 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-11-27-33 INFO  PreDefinedMethods:54 - Chrome browser launch successfully.
+16-08-2021-11-27-34 INFO  PreDefinedMethods:85 - Redirected to the https://www.incedoinc.com/ URL.
+16-08-2021-11-27-35 INFO  PreDefinedMethods:79 - Closing all instances of browsers.
+16-08-2021-11-30-38 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-11-30-40 INFO  PreDefinedMethods:54 - Chrome browser launch successfully.
+16-08-2021-11-30-41 INFO  PreDefinedMethods:85 - Redirected to the https://www.linkedin.com/ URL.
+16-08-2021-11-30-46 INFO  PreDefinedMethods:79 - Closing all instances of browsers.
+16-08-2021-02-52-17 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-03-00-17 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-03-00-19 INFO  PreDefinedMethods:54 - Chrome browser launch successfully.
+16-08-2021-03-00-20 INFO  PreDefinedMethods:85 - Redirected to the https://www.linkedin.com/ URL.
+16-08-2021-06-15-24 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-06-32-14 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-06-32-16 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+16-08-2021-06-32-17 INFO  PreDefinedMethods:88 - Redirected to the https://www.linkedin.com/ URL.
+16-08-2021-07-18-53 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+16-08-2021-07-18-55 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+16-08-2021-07-18-56 INFO  PreDefinedMethods:88 - Redirected to the https://www.linkedin.com/ URL.
+17-08-2021-04-41-47 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-42-19 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-43-28 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-43-55 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-45-20 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-45-22 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-46-44 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-46-46 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-48-26 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-48-29 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-49-10 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-49-12 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-49-42 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-49-44 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-49-57 INFO  PreDefinedMethods:88 - Redirected to the https://www.linkedin.com/ URL.
+17-08-2021-04-51-10 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-51-29 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-55-58 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-56-43 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-04-56-50 INFO  PreDefinedMethods:57 - Chrome browser launch successfully.
+17-08-2021-04-56-51 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-05-14-55 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-05-14-57 INFO  PreDefinedMethods:54 - Chrome browser launch successfully.
+17-08-2021-05-14-57 INFO  PreDefinedMethods:27 - PreConfiguration :Properties file read succesfully.
+17-08-2021-05-14-58 INFO  PreDefinedMethods:85 - Redirected to the https://www.linkedin.com/ URL.
+17-08-2021-05-15-02 INFO  PreDefinedMethods:79 - Closing all instances of browsers.
+19-08-2021-11-40-14 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-40-17 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-11-40-17 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-40-18 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-11-40-18 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-11-40-18 INFO  PreDefinedMethods:199 - By.xpath: //a[text()="Join now"] :Element is visible on page.
+19-08-2021-11-40-23 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-11-43-24 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-43-26 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-11-43-26 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-43-27 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-11-43-27 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-11-44-32 INFO  PreDefinedMethods:199 - By.xpath: //a[text()="Join now"] :Element is visible on page.
+19-08-2021-11-47-46 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-11-49-13 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-49-15 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-11-49-15 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-49-16 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-11-50-23 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-11-50-55 INFO  PreDefinedMethods:199 - By.xpath: //a[text()="Join now"] :Element is visible on page.
+19-08-2021-11-51-40 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-11-59-16 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-59-18 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-11-59-19 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-11-59-19 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-11-59-19 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-11-59-19 INFO  PreDefinedMethods:199 - By.xpath: //nav[@class='nav']/div/a[1] :Element is visible on page.
+19-08-2021-11-59-24 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-12-02-39 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-12-02-42 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-12-02-42 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-12-02-43 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-12-02-43 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-12-03-36 INFO  PreDefinedMethods:200 - By.xpath: //nav[@class='nav']/div/a[1] :Element is visible on page.
+19-08-2021-12-03-53 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-12-04-03 INFO  PreDefinedMethods:200 - By.xpath: //nav[@class='nav']/div/a[1] :Element is visible on page.
+19-08-2021-12-04-13 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-12-11-03 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-12-11-05 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-12-11-05 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-12-11-05 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-12-11-05 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-12-11-11 INFO  PreDefinedMethods:200 - By.xpath: //nav[@class='nav']/div/a[1] :Element is visible on page.
+19-08-2021-12-11-22 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-12-11-25 INFO  PreDefinedMethods:200 - By.xpath: //nav[@class='nav']/div/a[1] :Element is visible on page.
+19-08-2021-12-11-32 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-12-49-32 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-12-49-35 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-12-49-35 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-12-49-36 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-12-49-36 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-12-49-36 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-12-49-36 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-12-49-36 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-12-49-41 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-03-01-22 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-03-01-25 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-03-01-26 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-03-01-26 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-03-01-26 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-03-01-26 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-03-01-26 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-03-01-26 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-03-01-27 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-07-47-10 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-07-47-14 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-07-47-14 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-07-47-15 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-07-47-15 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-07-47-15 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-07-47-15 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-07-47-15 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-07-47-20 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-07-56-35 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-08-07 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-08-36 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-08-39 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-08-39 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-08-39 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-08-09-45 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-11-17 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-08-11-42 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-11-46 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-08-11-55 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-12-26 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-12-29 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-12-29 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-12-29 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-08-12-29 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-12-29 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-08-12-34 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-13-13 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-13-15 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-13-16 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-13-16 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-08-13-18 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-13-18 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-08-13-19 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-17-37 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-17-39 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-17-40 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-17-40 INFO  PreDefinedMethods:86 - Redirected to the https://www.linkedin.com/ URL.
+19-08-2021-08-17-42 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-17-42 INFO  PreDefinedMethods:200 - By.xpath: //button[2] :Element is visible on page.
+19-08-2021-08-17-47 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-22-13 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-22-15 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-22-15 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-22-19 INFO  PreDefinedMethods:86 - Redirected to the https://www.citi.com/ URL.
+19-08-2021-08-22-21 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-22-21 INFO  PreDefinedMethods:200 - By.xpath: //li[@id='navOpenAccMainLI'] :Element is visible on page.
+19-08-2021-08-22-22 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-26-12 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-26-15 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-26-15 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-26-16 INFO  PreDefinedMethods:86 - Redirected to the https://www.incedoinc.com/ URL.
+19-08-2021-08-26-18 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-26-18 INFO  PreDefinedMethods:200 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+19-08-2021-08-26-19 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-29-15 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-29-17 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-29-17 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-29-18 INFO  PreDefinedMethods:86 - Redirected to the https://www.incedoinc.com/ URL.
+19-08-2021-08-30-21 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-30-44 INFO  PreDefinedMethods:200 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+19-08-2021-08-30-51 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-31-42 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-31-44 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-31-44 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-31-46 INFO  PreDefinedMethods:86 - Redirected to the https://www.incedoinc.com/ URL.
+19-08-2021-08-31-48 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-31-54 INFO  PreDefinedMethods:200 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+19-08-2021-08-31-55 INFO  PreDefinedMethods:106 - Clicked on element: SignNowButton_xpath
+19-08-2021-08-31-55 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-08-32-18 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-32-20 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-08-32-20 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-08-32-21 INFO  PreDefinedMethods:86 - Redirected to the https://www.incedoinc.com/ URL.
+19-08-2021-08-32-23 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-08-32-23 INFO  PreDefinedMethods:200 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+19-08-2021-08-32-24 INFO  PreDefinedMethods:106 - Clicked on element: SignNowButton_xpath
+19-08-2021-08-32-25 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-09-10-56 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-10-59 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-09-10-59 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-11-00 INFO  PreDefinedMethods:86 - Redirected to the https://www.incedoinc.com/ URL.
+19-08-2021-09-11-00 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-09-11-00 INFO  PreDefinedMethods:200 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+19-08-2021-09-11-01 INFO  PreDefinedMethods:106 - Clicked on element: SignNowButton_xpath
+19-08-2021-09-11-02 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+19-08-2021-09-23-21 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-23-21 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-24-50 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-24-51 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-25-47 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-25-49 INFO  PreDefinedMethods:55 - Chrome browser launch successfully.
+19-08-2021-09-25-50 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+19-08-2021-09-25-51 INFO  PreDefinedMethods:86 - Redirected to the https://www.incedoinc.com/ URL.
+19-08-2021-09-25-51 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+19-08-2021-09-25-51 INFO  PreDefinedMethods:200 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+19-08-2021-09-25-52 INFO  PreDefinedMethods:106 - Clicked on element: SignNowButton_xpath
+19-08-2021-09-25-56 INFO  PreDefinedMethods:80 - Closing all instances of browsers.
+20-08-2021-11-31-55 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+20-08-2021-11-32-00 INFO  PreDefinedMethods:49 - Chrome browser launch successfully.
+20-08-2021-11-32-01 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+20-08-2021-11-32-03 INFO  PreDefinedMethods:79 - Redirected to the https://www.incedoinc.com/ URL.
+20-08-2021-11-32-03 INFO  PreDefinedMethods:28 - LinkedinHomePage :Properties file read succesfully.
+20-08-2021-11-32-03 INFO  PreDefinedMethods:73 - Closing all instances of browsers.
+20-08-2021-11-32-38 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+20-08-2021-11-32-41 INFO  PreDefinedMethods:49 - Chrome browser launch successfully.
+20-08-2021-11-32-41 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+20-08-2021-11-32-43 INFO  PreDefinedMethods:79 - Redirected to the https://www.incedoinc.com/ URL.
+20-08-2021-11-32-43 INFO  PreDefinedMethods:28 - HomePage :Properties file read succesfully.
+20-08-2021-11-32-43 INFO  PreDefinedMethods:193 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+20-08-2021-11-32-43 INFO  PreDefinedMethods:99 - Clicked on element: ContactButton_xpath
+20-08-2021-11-32-43 INFO  PreDefinedMethods:28 - HomePage :Properties file read succesfully.
+20-08-2021-11-32-43 INFO  PreDefinedMethods:193 - By.xpath: //h1 :Element is visible on page.
+20-08-2021-11-32-43 INFO  PreDefinedMethods:127 - Let's talk technology, let's talk solutions is the text value of an element.
+20-08-2021-11-32-44 INFO  PreDefinedMethods:73 - Closing all instances of browsers.
+20-08-2021-11-34-14 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+20-08-2021-11-34-17 INFO  PreDefinedMethods:49 - Chrome browser launch successfully.
+20-08-2021-11-34-18 INFO  PreDefinedMethods:41 - PreConfiguration :2Properties file read succesfully.
+20-08-2021-11-34-19 INFO  PreDefinedMethods:79 - Redirected to the https://www.incedoinc.com/ URL.
+20-08-2021-11-34-19 INFO  PreDefinedMethods:28 - HomePage :Properties file read succesfully.
+20-08-2021-11-34-19 INFO  PreDefinedMethods:193 - By.xpath: (//a[@href='https://www.incedoinc.com/contact/'])[1] :Element is visible on page.
+20-08-2021-11-34-19 INFO  PreDefinedMethods:99 - Clicked on element: ContactButton_xpath
+20-08-2021-11-34-19 INFO  PreDefinedMethods:28 - HomePage :Properties file read succesfully.
+20-08-2021-11-34-19 INFO  PreDefinedMethods:193 - By.xpath: //h1 :Element is visible on page.
+20-08-2021-11-34-20 INFO  PreDefinedMethods:127 - Let's talk technology, let's talk solutions is the text value of an element.
+20-08-2021-11-34-20 INFO  PreDefinedMethods:73 - Closing all instances of browsers.
