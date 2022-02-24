@@ -3,6 +3,7 @@ package com.base;
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Properties;
@@ -111,8 +112,8 @@ public class PreDefinedMethods {
 		return listOfElements;
 	}
 
-	// Method is taking two parameters. One to hover on mainmenu and another to
-	// click on the submenu.
+	// Method is taking two parameters. One to hover on main menu and another to
+	// click on the sub-menu.
 	public void hoverOnElement(String hoverElement, String subHoverElement, String propertyFileName) {
 		Actions act = new Actions(driver);
 		WebElement element = getElement(hoverElement, propertyFileName);
@@ -130,23 +131,13 @@ public class PreDefinedMethods {
 
 	// Method is used to wait for an element
 	public void waitForElementToBeVisible(String element, String propertyFileName) {
-		// By abc = getCompleteElement(element, propertyFileName);
+		wait = new WebDriverWait(driver, 30);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(getCompleteElement(element, propertyFileName)));
 	}
 
 	// Method is used to take the screen shot of a page
-	public String capatureScreenshot() {
-		TakesScreenshot ts = (TakesScreenshot) driver;
-		File sourceFile = ts.getScreenshotAs(OutputType.FILE);
-		String screenPath = ".//Screenshots//Screenshots" + getCurrentTimeAndDate() + ".jpeg";
-		try {
-			FileUtils.copyFile(sourceFile, new File(screenPath));
-			logger.info("Screenshot captured on location: " + screenPath);
-		} catch (IOException e) {
-			e.printStackTrace();
-			logger.error("Error while capturing screenshot.");
-		}
-		return screenPath;
+	public byte[] capatureScreenshot() {
+		return ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
 	}
 
 	// Method id used to get the current time and date
@@ -190,7 +181,6 @@ public class PreDefinedMethods {
 		default:
 			throw new IllegalArgumentException("By type " + locatorType + " is not found.");
 		}
-		logger.info(element + " :Element is visible on page.");
 		return element;
 	}
 
@@ -243,5 +233,25 @@ public class PreDefinedMethods {
 			logger.info("Clicking on the radio button to select:" + locator);
 			clickOnElement(locator, propertyFileName);
 		}
+	}
+
+	// Method is used to return the current page URL
+	public String getPageURL() {
+		return driver.getCurrentUrl();
+	}
+
+	// Method id used to verify the text of a locator using assert.
+	public void verifyText(String actualTextlocator, String ExpectedTextLocator) {
+		Assert.assertEquals(actualTextlocator, ExpectedTextLocator);
+	}
+
+	// Method is used to switch to the new tab
+	public void switchToNewWindow() {
+		ArrayList<String> alltabs = new ArrayList<String>(driver.getWindowHandles());
+		driver.switchTo().window(alltabs.get(1));
+	}
+
+	public boolean verifyIsDisplayed(String locator, String propertyFileName) {
+		return getElement(locator, propertyFileName).isDisplayed();
 	}
 }

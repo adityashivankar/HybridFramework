@@ -38,7 +38,7 @@ public class PropertyFileReader {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		logger.info(propFileName + " :2Properties file read succesfully.");
+		logger.info(propFileName + " : Properties file read succesfully.");
 		return prop;
 	}
 }

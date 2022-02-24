@@ -234,3 +234,42 @@
 20-08-2021-11-34-19 INFO  PreDefinedMethods:193 - By.xpath: //h1 :Element is visible on page.
 20-08-2021-11-34-20 INFO  PreDefinedMethods:127 - Let's talk technology, let's talk solutions is the text value of an element.
 20-08-2021-11-34-20 INFO  PreDefinedMethods:73 - Closing all instances of browsers.
+24-02-2022-06-16-36 INFO  PreDefinedMethods:41 - PreConfiguration : Properties file read succesfully.
+24-02-2022-06-16-39 INFO  PreDefinedMethods:50 - Chrome browser launch successfully.
+24-02-2022-06-16-40 INFO  PreDefinedMethods:41 - PreConfiguration : Properties file read succesfully.
+24-02-2022-06-16-42 INFO  PreDefinedMethods:80 - Redirected to the https://quantum-flex.ironcladapp.com/ URL.
+24-02-2022-06-16-42 INFO  PreDefinedMethods:28 - HomePage :Properties file read succesfully.
+24-02-2022-06-16-44 INFO  PreDefinedMethods:100 - Clicked on element: homePagesigninButton_xpath
+24-02-2022-06-16-44 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-45 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-45 INFO  PreDefinedMethods:128 - Sign in to Ironclad is the text value of an element.
+24-02-2022-06-16-45 INFO  PreDefinedMethods:41 - PreConfiguration : Properties file read succesfully.
+24-02-2022-06-16-45 INFO  PreDefinedMethods:41 - PreConfiguration : Properties file read succesfully.
+24-02-2022-06-16-46 INFO  PreDefinedMethods:80 - Redirected to the https://quantum-flex.ironcladapp.com/ URL.
+24-02-2022-06-16-46 INFO  PreDefinedMethods:28 - HomePage :Properties file read succesfully.
+24-02-2022-06-16-46 INFO  PreDefinedMethods:100 - Clicked on element: homePagesigninButton_xpath
+24-02-2022-06-16-46 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:94 - Sending text: ironclad@ironclad into elemententerEmailTextBox_name
+24-02-2022-06-16-47 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:100 - Clicked on element: continueButton_xpath
+24-02-2022-06-16-47 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:128 - This is not a valid email address is the text value of an element.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:41 - PreConfiguration : Properties file read succesfully.
+24-02-2022-06-16-47 INFO  PreDefinedMethods:41 - PreConfiguration : Properties file read succesfully.
+24-02-2022-06-16-49 INFO  PreDefinedMethods:80 - Redirected to the https://quantum-flex.ironcladapp.com/ URL.
+24-02-2022-06-16-49 INFO  PreDefinedMethods:28 - HomePage :Properties file read succesfully.
+24-02-2022-06-16-49 INFO  PreDefinedMethods:100 - Clicked on element: homePagesigninButton_xpath
+24-02-2022-06-16-49 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-50 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-50 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-50 INFO  PreDefinedMethods:94 - Sending text:  into elemententerEmailTextBox_name
+24-02-2022-06-16-50 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-50 INFO  PreDefinedMethods:100 - Clicked on element: continueButton_xpath
+24-02-2022-06-16-50 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-50 INFO  PreDefinedMethods:28 - SignInPage :Properties file read succesfully.
+24-02-2022-06-16-50 INFO  PreDefinedMethods:128 - This is not a valid email address is the text value of an element.
+24-02-2022-06-16-50 INFO  PreDefinedMethods:41 - PreConfiguration : Properties file read succesfully.
+24-02-2022-06-16-53 INFO  PreDefinedMethods:74 - Closing all instances of browsers.

@@ -12,7 +12,8 @@ import io.cucumber.testng.FeatureWrapper;
 import io.cucumber.testng.PickleWrapper;
 import io.cucumber.testng.TestNGCucumberRunner;
 
-@CucumberOptions(features = "src/test/resources/Features", glue = { "stepDefinations" })
+@CucumberOptions(features = "src/test/resources/Features", glue = { "stepDefinations", "com.hooks" }, plugin = {
+		"pretty", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" })
 
 public class TestRunner extends PreDefinedMethods {
 
